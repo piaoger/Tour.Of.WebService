@@ -1,0 +1,7 @@
+{
+	"TryEcapingCharacters":
+	{
+		"String":""\"foo\" is not \"bar\". specials: \b\r\n\f\t\\/";",
+		"Unicode":"\u00A5"
+	}
+}

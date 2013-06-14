@@ -1,0 +1,7 @@
+; DLL_Exports.def : Declares the module parameters for the DLL.
+
+LIBRARY      "PlayWebService"
+; DESCRIPTION  'PlayWebService Windows Dynamic Link Library'
+
+EXPORTS
+    ; Explicit exports can go here

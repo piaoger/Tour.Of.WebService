@@ -1,0 +1,7 @@
+#ifndef GUARD_PLAYWEBSERVICE_INTERNALNAME_H
+#define GUARD_PLAYWEBSERVICE_INTERNALNAME_H
+
+#define SMCP_LIB_NAME			PlayWebService
+#define SMCP_LIB_DESCRIPTION	"This Library is a project for team's work."
+
+#endif //GUARD_PLAYWEBSERVICE_INTERNALNAME_H

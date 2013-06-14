@@ -1,0 +1,1 @@
+Unlike BedRock, Framework is not a template library, has 3rd dependencies.

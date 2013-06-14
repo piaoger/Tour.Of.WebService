@@ -1,0 +1,21 @@
+
+#ifndef GUARD_PLAYWEBSERVICE_GLOBAL_TESTPROXY_H
+#define GUARD_PLAYWEBSERVICE_GLOBAL_TESTPROXY_H
+
+#include "Decl.h"
+#include <tut.h>
+#include <tut_reporter.h>
+
+using tut::runner;
+
+BEGIN_NAMESPCE_PLAYWEBSERVICE
+
+class EXPORT_CORE_PLAYWEBSERVICE TestProxy
+{
+public:
+    static int Run();
+};
+
+END_NAMESPCE_PLAYWEBSERVICE
+
+#endif //GUARD_PLAYWEBSERVICE_GLOBAL_TESTPROXY_H
